@@ -1,0 +1,25 @@
+<div class="well np">
+    <div id="myCarousel" class="carousel slide homCar">
+        <div class="carousel-inner">
+          <div class="item">
+            <img style="width:100%" src="{{url('/')}}/assets/front/img/bootstrap_free-ecommerce.png" alt="bootstrap ecommerce templates">
+           
+          </div>
+          <div class="item">
+            <img style="width:100%" src="{{url('/')}}/assets/front/img/carousel1.png" alt="bootstrap ecommerce templates">
+           
+          </div>
+          <div class="item active">
+            <img style="width:100%" src="{{url('/')}}/assets/front/img/carousel3.png" alt="bootstrap ecommerce templates">
+           
+          </div>
+          <div class="item">
+            <img style="width:100%" src="{{url('/')}}/assets/front/img/bootstrap-templates.png" alt="bootstrap templates">
+            
+          </div>
+        </div>
+        <a class="left carousel-control" href="#myCarousel" data-slide="prev">&lsaquo;</a>
+        <a class="right carousel-control" href="#myCarousel" data-slide="next">&rsaquo;</a>
+    </div>
+
+</div>
